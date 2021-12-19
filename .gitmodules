@@ -1,0 +1,9 @@
+[submodule "control-system-for-mushroom-cultivation"]
+	path = control-system-for-mushroom-cultivation
+	url = https://github.com/renardelyon/control-system-for-mushroom-cultivation
+[submodule "Data-analysis-TA"]
+	path = Data-analysis-TA
+	url = https://github.com/renardelyon/Data-analysis-TA
+[submodule "ML-jamur"]
+	path = ML-jamur
+	url = https://github.com/renardelyon/ML-jamur
